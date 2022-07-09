@@ -1,5 +1,5 @@
 # exercicio1
-Atividades do CEDUP, de teste de software
+Atividades do CEDUP, de teste de software: parte 1
 
 Página 26 do manual java
 
